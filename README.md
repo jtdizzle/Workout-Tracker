@@ -7,10 +7,10 @@ When the user loads the page, they should be given the option to create a new wo
 
 The user should be able to:  
 
-#Add exercises to the most recent workout plan.  
+1. Add exercises to the most recent workout plan.  
 
-##Add new exercises to a new workout plan.  
+2. Add new exercises to a new workout plan.  
 
-##View the combined weight of multiple exercises from the past seven workouts on the stats page.  
+3. View the combined weight of multiple exercises from the past seven workouts on the stats page.  
 
-##View the total duration of each workout from the past seven workouts on the stats page.  
+4. View the total duration of each workout from the past seven workouts on the stats page.  
