@@ -1,4 +1,4 @@
-## Workout-Tracker
+# Workout-Tracker
 
 https://jtdizzle.github.io/Workout-Tracker/  
 
